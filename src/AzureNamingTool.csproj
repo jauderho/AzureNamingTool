@@ -10,6 +10,7 @@
     <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
     <DockerfileContext>.</DockerfileContext>
     <Optimize>true</Optimize>
+    <TieredPGO>true</TieredPGO>	
   </PropertyGroup>
 
   <ItemGroup>
